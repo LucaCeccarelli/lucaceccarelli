@@ -16,5 +16,5 @@ My name is Ceccarelli Luca, i am a student in the Aix IUT, studying Computer Sci
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+# Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=LucaCeccarelli&theme=blue-green)
